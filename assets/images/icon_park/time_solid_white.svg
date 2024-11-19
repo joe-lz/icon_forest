@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>time_solid</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="time_solid" transform="translate(1, 1)" stroke-width="2">
+            <path d="M10,20 C15.52285,20 20,15.52285 20,10 C20,4.47715 15.52285,0 10,0 C4.47715,0 0,4.47715 0,10 C0,15.52285 4.47715,20 10,20 Z" id="路径" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <polyline id="路径" stroke="#333333" stroke-linecap="round" points="10.0042 4.00005 10.0036 10.00445 14.2433 14.24415"></polyline>
+        </g>
+    </g>
+</svg>
