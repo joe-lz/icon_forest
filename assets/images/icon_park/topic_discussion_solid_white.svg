@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>topic_discussion_solid</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="topic_discussion_solid" transform="translate(1, 1)" stroke-width="2">
+            <polygon id="路径" stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero" stroke-linejoin="round" points="20 0 0 0 0 15 7.5 15 10 17.5 12.5 15 20 15"></polygon>
+            <line x1="8.5" y1="3.5" x2="8" y2="12" id="路径" stroke="#333333"></line>
+            <line x1="12" y1="3.5" x2="11.5" y2="12" id="路径" stroke="#333333"></line>
+            <line x1="14.5" y1="6" x2="6" y2="6" id="路径" stroke="#333333"></line>
+            <line x1="14" y1="9.5" x2="5.5" y2="9.5" id="路径" stroke="#333333"></line>
+        </g>
+    </g>
+</svg>
