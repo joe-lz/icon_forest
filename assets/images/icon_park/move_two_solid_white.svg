@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="29px" viewBox="0 0 29 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="编组" transform="translate(14.75, 14.5) rotate(35) translate(-14.75, -14.5)translate(6, 5)" fill="#FFFFFF" fill-rule="nonzero" stroke="#FFFFFF" stroke-width="2">
+            <polygon id="路径" points="0 0 17.5 9.5 8 10.5 2.9974 19"></polygon>
+        </g>
+    </g>
+</svg>
